@@ -12,12 +12,12 @@
 
 <p align="center">
   <a href="https://www.npmjs.com/package/@murky/core">
-    <img src="https://img.shields.io/npm/v/@murky/coree" alt="NPM">
+    <img src="https://img.shields.io/npm/v/@murky/core" alt="NPM">
   </a>
   <a href="https://www.npmjs.com/package/@murky/core">
     <img src="https://img.shields.io/npm/dm/@murky/core" alt="npm downloads">
   </a>
-  <img src="https://img.shields.io/github/license/murky-gg/murky" alt="MIT">
+  <img src="https://img.shields.io/github/license/murky-gg/core" alt="MIT">
 </p>
 
 <h1 align="center">The open-source rewards infrastructure for developers</h1>
@@ -28,7 +28,7 @@ The ultimate service for managing rewards and battle pass with a single API.
 
   <p align="center">
     <br />
-    <a href="https://github.com/murky-gg/murky/" rel="dofollow"><strong>Visit our main GitHub Repository »</strong></a>
+    <a href="https://github.com/murky-gg/core/" rel="dofollow"><strong>Visit our main GitHub Repository »</strong></a>
     <br />
   </p>
 <h3 align="center">
