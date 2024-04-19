@@ -1,4 +1,4 @@
-<img src="./coins.png" alt="murky.gg" >
+<img src="./profile/coins.png" align="center" alt="murky.gg" >
 
 <h3 align="center">
   <b><a href="https://murky.gg">Murky.gg</a></b>
